@@ -27,12 +27,22 @@ Google Fonts
 
 GitHub for version control
 
-✨ Screenshots
-(assets/screenshots/home_page.png)
-(assets/screenshots/detaylar.png)
-(assets/screenshots/istatistik.png)
-(assets/screenshots/kitapEkle.png)
-(assets/screenshots/sıralama.png)
+## ✨ Screenshots
+
+### 🏠 Home Page
+![Home](assets/screenshots/home_page.png)
+
+### 📖 Detail Page
+![Details](assets/screenshots/detaylar.png)
+
+### 📊 Statistics
+![Stats](assets/screenshots/istatistik.png)
+
+### ➕ Add Book
+![Add Book](assets/screenshots/kitapEkle.png)
+
+### 🔢 Sorting
+![Sorting](assets/screenshots/siralama.png)
 
 📌 Notes
 This app is currently under development.
