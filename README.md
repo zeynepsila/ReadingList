@@ -40,4 +40,4 @@ Feedback, issues, and contributions are welcome!
 
 Author: zeynepsila
 Project: ReadingList
-Year: 2025 bunun türkçesi ne
+Year: 2025 
