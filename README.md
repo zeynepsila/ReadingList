@@ -1,16 +1,43 @@
-# mini_project
+# 📚 Book Diary App
 
-A new Flutter project.
+A simple and clean book diary application built with Flutter. This app allows users to add books they've read, rate them, and write personal reflections.
 
-## Getting Started
+## 🧩 Features
 
-This project is a starting point for a Flutter application.
+- Add new books with title, author, rating, and personal comment
+- View a list of all added books
+- Detail view to read full comments
+- Stylish and user-friendly UI
+## 🚀 Installation
 
-A few resources to get you started if this is your first Flutter project:
+To run this project on your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+git clone https://github.com/zeynepsila/ReadingList.git
+cd ReadingList
+flutter pub get
+flutter run
+🔧 Technologies Used
+Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart
+
+Google Fonts
+
+
+GitHub for version control
+
+✨ Screenshots
+(assets/screenshots/home_page.png)
+(assets/screenshots/detaylar.png)
+(assets/screenshots/istatistik.png)
+(assets/screenshots/kitapEkle.png)
+(assets/screenshots/sıralama.png)
+
+📌 Notes
+This app is currently under development.
+Feedback, issues, and contributions are welcome!
+
+Author: zeynepsila
+Project: ReadingList
+Year: 2025 bunun türkçesi ne
